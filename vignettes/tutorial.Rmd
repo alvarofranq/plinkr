@@ -34,14 +34,9 @@ plinkr() %>%
 ## Installation and configuration
 
 To use this package you need to install [PLINK](https://www.cog-genomics.org/plink2)
-first. Then you can install the latest stable version from CRAN using the following 
-command:
+first.
 
-```{r, eval = FALSE}
-install.packages('plinkr')
-```
-
-You can install the latest development version, you can install it from GitHub.
+You can install the latest development version from GitHub.
 The easiest way to do that is by using `devtools`.
 
 ```{r, eval = FALSE}
