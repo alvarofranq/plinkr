@@ -1,0 +1,13 @@
+Package: plinkr
+Title: A PLINK interface to R
+Version: 0.0.0.9000
+Authors@R: person("Alvaro", "Franquet", email = "afranquet@idibell.cat", role = c("aut", "cre"))
+Description: A PLINK interface to R with a syntax similart to dplyr's one.
+Depends: R (>= 3.4.2)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1
